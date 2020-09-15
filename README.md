@@ -1,2 +1,5 @@
 # Infrared-remote-control-cc2530
-CC2530万能遥控器，可录制遥控器的红外波形
+CC2530 Universal Remote control. Provides the functionality of Sending and receiving using the CC2530 Timers and IR Gen
+
+Usage instructions:
+TBD
